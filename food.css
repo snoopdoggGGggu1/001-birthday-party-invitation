@@ -1,0 +1,29 @@
+body {
+    font-family: fantasy;
+}
+    
+a {
+    color: black;
+}
+    
+ h1 {
+        font-family: fantasy;
+ }
+    
+ .content{
+        text-align: left;
+ }
+    
+ img{
+       width: 300px; 
+ }
+    
+ .img-aligned{
+        float: right;
+}
+ body {
+    background-image: url(baloons.jpg);
+    }
+ .header{
+        text-align: center;
+ }
